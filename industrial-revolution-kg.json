@@ -1,0 +1,3530 @@
+[
+  {
+    "subject": "revolution",
+    "predicate": "originates in",
+    "object": "geopolitical entities",
+    "chunk": 1
+  },
+  {
+    "subject": "revolution",
+    "predicate": "represents",
+    "object": "industrial revolution",
+    "chunk": 1
+  },
+  {
+    "subject": "revolution",
+    "predicate": "driven by",
+    "object": "innovation and invention",
+    "chunk": 1
+  },
+  {
+    "subject": "revolution",
+    "predicate": "uses",
+    "object": "machines",
+    "chunk": 1
+  },
+  {
+    "subject": "historical figures",
+    "predicate": "invented",
+    "object": "innovation and invention",
+    "chunk": 1
+  },
+  {
+    "subject": "historical figures",
+    "predicate": "refined",
+    "object": "industrial revolution",
+    "chunk": 2
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "used in",
+    "object": "mining",
+    "chunk": 1
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "used in",
+    "object": "materials science",
+    "chunk": 1
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "enabled",
+    "object": "adoption",
+    "chunk": 2
+  },
+  {
+    "subject": "transportation",
+    "predicate": "revolutionized",
+    "object": "transport",
+    "chunk": 2
+  },
+  {
+    "subject": "transportation",
+    "predicate": "interconnected",
+    "object": "continents",
+    "chunk": 2
+  },
+  {
+    "subject": "transportation",
+    "predicate": "facilitated",
+    "object": "urbanization",
+    "chunk": 2
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "became",
+    "object": "epicenter",
+    "chunk": 2
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "included",
+    "object": "manchester",
+    "chunk": 2
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "included",
+    "object": "birmingham",
+    "chunk": 2
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "included",
+    "object": "pittsburgh",
+    "chunk": 2
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "included",
+    "object": "lowell",
+    "chunk": 2
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "developed",
+    "object": "cotton gin",
+    "chunk": 2
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "developed",
+    "object": "innovation and invention",
+    "chunk": 2
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "allowed",
+    "object": "economic activities",
+    "chunk": 2
+  },
+  {
+    "subject": "economic activities",
+    "predicate": "fed",
+    "object": "expansion",
+    "chunk": 2
+  },
+  {
+    "subject": "innovation and invention",
+    "predicate": "allows",
+    "object": "economic activities",
+    "chunk": 3
+  },
+  {
+    "subject": "economic activities",
+    "predicate": "feeds",
+    "object": "expansion",
+    "chunk": 3
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "matures",
+    "object": "significantly",
+    "chunk": 3
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "shaped by",
+    "object": "business and economics",
+    "chunk": 3
+  },
+  {
+    "subject": "business and economics",
+    "predicate": "forms",
+    "object": "foundations",
+    "chunk": 3
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "leads to",
+    "object": "conditions",
+    "chunk": 3
+  },
+  {
+    "subject": "conditions",
+    "predicate": "prompts",
+    "object": "social and political movements",
+    "chunk": 3
+  },
+  {
+    "subject": "social and political movements",
+    "predicate": "promote",
+    "object": "conditions",
+    "chunk": 3
+  },
+  {
+    "subject": "social and political movements",
+    "predicate": "founded",
+    "object": "communities",
+    "chunk": 3
+  },
+  {
+    "subject": "communities",
+    "predicate": "like",
+    "object": "new lanark",
+    "chunk": 3
+  },
+  {
+    "subject": "legislation",
+    "predicate": "limits",
+    "object": "labor and economics",
+    "chunk": 3
+  },
+  {
+    "subject": "legislation",
+    "predicate": "introduces",
+    "object": "safety",
+    "chunk": 3
+  },
+  {
+    "subject": "revolution",
+    "predicate": "occurs",
+    "object": "period",
+    "chunk": 3
+  },
+  {
+    "subject": "labor and economics",
+    "predicate": "introduced",
+    "object": "regulations",
+    "chunk": 4
+  },
+  {
+    "subject": "fourth industrial revolution",
+    "predicate": "built upon",
+    "object": "foundations",
+    "chunk": 4
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes",
+    "object": "industrial revolution",
+    "chunk": 4
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes",
+    "object": "materials science",
+    "chunk": 4
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes",
+    "object": "chemicals",
+    "chunk": 4
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes",
+    "object": "communication technologies",
+    "chunk": 4
+  },
+  {
+    "subject": "ford",
+    "predicate": "pioneered",
+    "object": "automation and manufacturing",
+    "chunk": 4
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "reduces",
+    "object": "costs",
+    "chunk": 4
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "reshapes",
+    "object": "markets",
+    "chunk": 4
+  },
+  {
+    "subject": "bell",
+    "predicate": "invented",
+    "object": "technology",
+    "chunk": 4
+  },
+  {
+    "subject": "marconi",
+    "predicate": "invented",
+    "object": "radio",
+    "chunk": 4
+  },
+  {
+    "subject": "technology",
+    "predicate": "enhances",
+    "object": "communication technologies",
+    "chunk": 4
+  },
+  {
+    "subject": "radio",
+    "predicate": "enhances",
+    "object": "communication technologies",
+    "chunk": 4
+  },
+  {
+    "subject": "communication technologies",
+    "predicate": "increases",
+    "object": "interactions",
+    "chunk": 4
+  },
+  {
+    "subject": "communication technologies",
+    "predicate": "facilitates",
+    "object": "exchange",
+    "chunk": 4
+  },
+  {
+    "subject": "bessemer",
+    "predicate": "developed",
+    "object": "process",
+    "chunk": 4
+  },
+  {
+    "subject": "process",
+    "predicate": "revolutionizes",
+    "object": "materials science",
+    "chunk": 4
+  },
+  {
+    "subject": "materials science",
+    "predicate": "drives",
+    "object": "projects",
+    "chunk": 4
+  },
+  {
+    "subject": "projects",
+    "predicate": "includes",
+    "object": "skyscrapers",
+    "chunk": 4
+  },
+  {
+    "subject": "projects",
+    "predicate": "includes",
+    "object": "bridges",
+    "chunk": 4
+  },
+  {
+    "subject": "bessemer",
+    "predicate": "revolutionized",
+    "object": "economic activities",
+    "chunk": 5
+  },
+  {
+    "subject": "economic activities",
+    "predicate": "drove",
+    "object": "projects",
+    "chunk": 5
+  },
+  {
+    "subject": "projects",
+    "predicate": "included",
+    "object": "skyscrapers",
+    "chunk": 5
+  },
+  {
+    "subject": "projects",
+    "predicate": "included",
+    "object": "bridges",
+    "chunk": 5
+  },
+  {
+    "subject": "technology",
+    "predicate": "led by",
+    "object": "thomas edison",
+    "chunk": 5
+  },
+  {
+    "subject": "technology",
+    "predicate": "led by",
+    "object": "tesla",
+    "chunk": 5
+  },
+  {
+    "subject": "technology",
+    "predicate": "brought",
+    "object": "electric lighting",
+    "chunk": 5
+  },
+  {
+    "subject": "technology",
+    "predicate": "brought",
+    "object": "motors",
+    "chunk": 5
+  },
+  {
+    "subject": "technology",
+    "predicate": "brought",
+    "object": "innovation and invention",
+    "chunk": 5
+  },
+  {
+    "subject": "technology",
+    "predicate": "transformed",
+    "object": "daily life",
+    "chunk": 5
+  },
+  {
+    "subject": "technology",
+    "predicate": "accelerated",
+    "object": "urban growth",
+    "chunk": 5
+  },
+  {
+    "subject": "social and political movements",
+    "predicate": "responded to",
+    "object": "industrial enterprises",
+    "chunk": 5
+  },
+  {
+    "subject": "social and political movements",
+    "predicate": "authored",
+    "object": "historical figures",
+    "chunk": 5
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "entered",
+    "object": "industrial revolution",
+    "chunk": 6
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "began",
+    "object": "mid-20th century",
+    "chunk": 6
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "extended to",
+    "object": "late 20th century",
+    "chunk": 6
+  },
+  {
+    "subject": "development",
+    "predicate": "involved",
+    "object": "industrial revolution",
+    "chunk": 6
+  },
+  {
+    "subject": "development",
+    "predicate": "involved",
+    "object": "computing",
+    "chunk": 6
+  },
+  {
+    "subject": "development",
+    "predicate": "involved",
+    "object": "automation and manufacturing",
+    "chunk": 6
+  },
+  {
+    "subject": "transport",
+    "predicate": "invented by",
+    "object": "bell",
+    "chunk": 6
+  },
+  {
+    "subject": "technology",
+    "predicate": "invented by",
+    "object": "bell",
+    "chunk": 6
+  },
+  {
+    "subject": "computing",
+    "predicate": "paved way for",
+    "object": "technology",
+    "chunk": 6
+  },
+  {
+    "subject": "computing",
+    "predicate": "popularized by",
+    "object": "economic activities",
+    "chunk": 6
+  },
+  {
+    "subject": "computing",
+    "predicate": "popularized by",
+    "object": "historical figures",
+    "chunk": 6
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "altering",
+    "object": "industrial revolution",
+    "chunk": 7
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "altering",
+    "object": "finance",
+    "chunk": 7
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "altering",
+    "object": "entertainment",
+    "chunk": 7
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "altering",
+    "object": "healthcare",
+    "chunk": 7
+  },
+  {
+    "subject": "computing",
+    "predicate": "popularized",
+    "object": "economic activities",
+    "chunk": 7
+  },
+  {
+    "subject": "computing",
+    "predicate": "popularized",
+    "object": "historical figures",
+    "chunk": 7
+  },
+  {
+    "subject": "computing",
+    "predicate": "popularized",
+    "object": "gates",
+    "chunk": 7
+  },
+  {
+    "subject": "access",
+    "predicate": "democratized",
+    "object": "information",
+    "chunk": 7
+  },
+  {
+    "subject": "interplay",
+    "predicate": "transforming",
+    "object": "philosophical and theoretical concepts",
+    "chunk": 7
+  },
+  {
+    "subject": "practices",
+    "predicate": "transforming",
+    "object": "business",
+    "chunk": 7
+  },
+  {
+    "subject": "creation",
+    "predicate": "enabled",
+    "object": "communication technologies",
+    "chunk": 7
+  },
+  {
+    "subject": "communication technologies",
+    "predicate": "developed",
+    "object": "darpa",
+    "chunk": 7
+  },
+  {
+    "subject": "communication technologies",
+    "predicate": "expanded",
+    "object": "berners-lee",
+    "chunk": 7
+  },
+  {
+    "subject": "communities",
+    "predicate": "enabled",
+    "object": "institutions",
+    "chunk": 7
+  },
+  {
+    "subject": "sharing",
+    "predicate": "enabled",
+    "object": "information",
+    "chunk": 7
+  },
+  {
+    "subject": "age",
+    "predicate": "ushering",
+    "object": "information",
+    "chunk": 7
+  },
+  {
+    "subject": "technology",
+    "predicate": "altered",
+    "object": "industrial revolution",
+    "chunk": 7
+  },
+  {
+    "subject": "computing",
+    "predicate": "exemplified",
+    "object": "business and organization",
+    "chunk": 7
+  },
+  {
+    "subject": "lines",
+    "predicate": "pioneered",
+    "object": "robotic assembly",
+    "chunk": 7
+  },
+  {
+    "subject": "technology",
+    "predicate": "enabled",
+    "object": "mass customization",
+    "chunk": 7
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "pioneered",
+    "object": "robotic assembly",
+    "chunk": 8
+  },
+  {
+    "subject": "robotic assembly",
+    "predicate": "improve",
+    "object": "efficiency",
+    "chunk": 8
+  },
+  {
+    "subject": "robotic assembly",
+    "predicate": "improve",
+    "object": "product consistency",
+    "chunk": 8
+  },
+  {
+    "subject": "technology",
+    "predicate": "enable",
+    "object": "mass customization",
+    "chunk": 8
+  },
+  {
+    "subject": "technology",
+    "predicate": "enable",
+    "object": "economic activities",
+    "chunk": 8
+  },
+  {
+    "subject": "technology",
+    "predicate": "reshape",
+    "object": "global supply chains",
+    "chunk": 8
+  },
+  {
+    "subject": "technology",
+    "predicate": "reshape",
+    "object": "economic structures",
+    "chunk": 8
+  },
+  {
+    "subject": "communications",
+    "predicate": "represented by",
+    "object": "technologies",
+    "chunk": 8
+  },
+  {
+    "subject": "computing",
+    "predicate": "such as",
+    "object": "motors",
+    "chunk": 8
+  },
+  {
+    "subject": "computing",
+    "predicate": "such as",
+    "object": "nokia",
+    "chunk": 8
+  },
+  {
+    "subject": "computing",
+    "predicate": "such as",
+    "object": "innovation and invention",
+    "chunk": 8
+  },
+  {
+    "subject": "computing",
+    "predicate": "such as",
+    "object": "samsung",
+    "chunk": 8
+  },
+  {
+    "subject": "e-commerce",
+    "predicate": "spearheaded by",
+    "object": "business and organization",
+    "chunk": 8
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "such as",
+    "object": "amazon",
+    "chunk": 8
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "such as",
+    "object": "alibaba",
+    "chunk": 8
+  },
+  {
+    "subject": "e-commerce",
+    "predicate": "transformed",
+    "object": "retail",
+    "chunk": 8
+  },
+  {
+    "subject": "e-commerce",
+    "predicate": "transformed",
+    "object": "logistics",
+    "chunk": 8
+  },
+  {
+    "subject": "e-commerce",
+    "predicate": "transformed",
+    "object": "consumer behavior",
+    "chunk": 8
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "experiencing",
+    "object": "industrial revolution",
+    "chunk": 8
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "distinguished by",
+    "object": "fusion",
+    "chunk": 9
+  },
+  {
+    "subject": "fusion",
+    "predicate": "physical",
+    "object": "digital",
+    "chunk": 8
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "experiences",
+    "object": "industrial revolution",
+    "chunk": 9
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "centers around",
+    "object": "artificial intelligence",
+    "chunk": 9
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "developed by",
+    "object": "institutions",
+    "chunk": 9
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "developed by",
+    "object": "corporations",
+    "chunk": 9
+  },
+  {
+    "subject": "openai",
+    "predicate": "included in",
+    "object": "artificial intelligence",
+    "chunk": 9
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "included in",
+    "object": "artificial intelligence",
+    "chunk": 9
+  },
+  {
+    "subject": "microsoft",
+    "predicate": "included in",
+    "object": "artificial intelligence",
+    "chunk": 9
+  },
+  {
+    "subject": "ibm",
+    "predicate": "included in",
+    "object": "artificial intelligence",
+    "chunk": 9
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "enables",
+    "object": "natural language processing",
+    "chunk": 9
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "enables",
+    "object": "predictive analytics",
+    "chunk": 9
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "enables",
+    "object": "autonomous vehicles",
+    "chunk": 9
+  },
+  {
+    "subject": "chatgpt",
+    "predicate": "is a",
+    "object": "artificial intelligence",
+    "chunk": 9
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "fundamental in",
+    "object": "healthcare",
+    "chunk": 9
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "fundamental in",
+    "object": "finance",
+    "chunk": 9
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "fundamental in",
+    "object": "industrial revolution",
+    "chunk": 9
+  },
+  {
+    "subject": "autonomous vehicles",
+    "predicate": "uses",
+    "object": "automation and manufacturing",
+    "chunk": 9
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "are in",
+    "object": "fields",
+    "chunk": 10
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "enable",
+    "object": "modeling",
+    "chunk": 10
+  },
+  {
+    "subject": "autonomous vehicles",
+    "predicate": "championed by",
+    "object": "tesla",
+    "chunk": 10
+  },
+  {
+    "subject": "autonomous vehicles",
+    "predicate": "championed by",
+    "object": "waymo",
+    "chunk": 10
+  },
+  {
+    "subject": "autonomous vehicles",
+    "predicate": "championed by",
+    "object": "cruise",
+    "chunk": 10
+  },
+  {
+    "subject": "technology",
+    "predicate": "exemplified by",
+    "object": "bitcoin",
+    "chunk": 10
+  },
+  {
+    "subject": "technology",
+    "predicate": "exemplified by",
+    "object": "ethereum",
+    "chunk": 10
+  },
+  {
+    "subject": "biotechnology",
+    "predicate": "introduced",
+    "object": "crispr-cas9",
+    "chunk": 10
+  },
+  {
+    "subject": "biotechnology",
+    "predicate": "altering",
+    "object": "healthcare",
+    "chunk": 10
+  },
+  {
+    "subject": "computing",
+    "predicate": "in",
+    "object": "development",
+    "chunk": 10
+  },
+  {
+    "subject": "computing",
+    "predicate": "by",
+    "object": "business and organization",
+    "chunk": 10
+  },
+  {
+    "subject": "diseases",
+    "predicate": "alters",
+    "object": "healthcare",
+    "chunk": 11
+  },
+  {
+    "subject": "computing",
+    "predicate": "developed by",
+    "object": "ibm",
+    "chunk": 11
+  },
+  {
+    "subject": "computing",
+    "predicate": "developed by",
+    "object": "business and organization",
+    "chunk": 11
+  },
+  {
+    "subject": "computing",
+    "predicate": "developed by",
+    "object": "mit",
+    "chunk": 11
+  },
+  {
+    "subject": "computing",
+    "predicate": "promises",
+    "object": "power",
+    "chunk": 11
+  },
+  {
+    "subject": "fields",
+    "predicate": "includes",
+    "object": "cryptography",
+    "chunk": 11
+  },
+  {
+    "subject": "fields",
+    "predicate": "includes",
+    "object": "materials science",
+    "chunk": 11
+  },
+  {
+    "subject": "fields",
+    "predicate": "includes",
+    "object": "pharmaceuticals",
+    "chunk": 11
+  },
+  {
+    "subject": "revolution",
+    "predicate": "concerns",
+    "object": "inequality",
+    "chunk": 11
+  },
+  {
+    "subject": "debates",
+    "predicate": "shape",
+    "object": "automation and manufacturing",
+    "chunk": 11
+  },
+  {
+    "subject": "debates",
+    "predicate": "shape",
+    "object": "privacy",
+    "chunk": 11
+  },
+  {
+    "subject": "debates",
+    "predicate": "shape",
+    "object": "ethics",
+    "chunk": 11
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "concerns",
+    "object": "biotechnology",
+    "chunk": 11
+  },
+  {
+    "subject": "forum",
+    "predicate": "is",
+    "object": "business and economics",
+    "chunk": 11
+  },
+  {
+    "subject": "geopolitical entities",
+    "predicate": "is",
+    "object": "business and organization",
+    "chunk": 11
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "dimensions",
+    "object": "biotechnology",
+    "chunk": 12
+  },
+  {
+    "subject": "institutions",
+    "predicate": "engage",
+    "object": "topics",
+    "chunk": 12
+  },
+  {
+    "subject": "institutions",
+    "predicate": "include",
+    "object": "business and economics",
+    "chunk": 12
+  },
+  {
+    "subject": "institutions",
+    "predicate": "include",
+    "object": "geopolitical entities",
+    "chunk": 12
+  },
+  {
+    "subject": "governments",
+    "predicate": "engage",
+    "object": "topics",
+    "chunk": 12
+  },
+  {
+    "subject": "revolution",
+    "predicate": "transform",
+    "object": "philosophical and theoretical concepts",
+    "chunk": 12
+  },
+  {
+    "subject": "revolution",
+    "predicate": "reshape",
+    "object": "economic systems",
+    "chunk": 12
+  },
+  {
+    "subject": "revolution",
+    "predicate": "alter",
+    "object": "cultural norms",
+    "chunk": 12
+  },
+  {
+    "subject": "revolution",
+    "predicate": "influence",
+    "object": "interactions",
+    "chunk": 12
+  },
+  {
+    "subject": "interactions",
+    "predicate": "with",
+    "object": "technology",
+    "chunk": 12
+  },
+  {
+    "subject": "interactions",
+    "predicate": "with",
+    "object": "environment",
+    "chunk": 12
+  },
+  {
+    "subject": "understanding",
+    "predicate": "essential",
+    "object": "communication technologies",
+    "chunk": 12
+  },
+  {
+    "subject": "communication technologies",
+    "predicate": "between",
+    "object": "innovation",
+    "chunk": 12
+  },
+  {
+    "subject": "innovation",
+    "predicate": "and",
+    "object": "shifts",
+    "chunk": 12
+  },
+  {
+    "subject": "innovation",
+    "predicate": "and",
+    "object": "politics",
+    "chunk": 12
+  },
+  {
+    "subject": "innovation",
+    "predicate": "and",
+    "object": "civilization",
+    "chunk": 12
+  },
+  {
+    "subject": "innovation",
+    "predicate": "is essential for",
+    "object": "interplay",
+    "chunk": 13
+  },
+  {
+    "subject": "innovation",
+    "predicate": "interacts with",
+    "object": "shifts",
+    "chunk": 13
+  },
+  {
+    "subject": "innovation",
+    "predicate": "interacts with",
+    "object": "politics",
+    "chunk": 13
+  },
+  {
+    "subject": "innovation",
+    "predicate": "interacts with",
+    "object": "civilization",
+    "chunk": 13
+  },
+  {
+    "subject": "mass customization",
+    "predicate": "facilitates sharing",
+    "object": "access",
+    "inferred": true
+  },
+  {
+    "subject": "geopolitical entities",
+    "predicate": "impacts age",
+    "object": "information",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical concepts",
+    "predicate": "influenced access",
+    "object": "sharing",
+    "inferred": true
+  },
+  {
+    "subject": "mass customization",
+    "predicate": "regulates safety",
+    "object": "legislation",
+    "inferred": true
+  },
+  {
+    "subject": "politics",
+    "predicate": "impacts regulations",
+    "object": "labor economics",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical concepts",
+    "predicate": "affects legislation",
+    "object": "safety",
+    "inferred": true
+  },
+  {
+    "subject": "mass customization",
+    "predicate": "uses technology",
+    "object": "communications",
+    "inferred": true
+  },
+  {
+    "subject": "transportation",
+    "predicate": "relies on",
+    "object": "communications",
+    "inferred": true
+  },
+  {
+    "subject": "politics",
+    "predicate": "impacts technology",
+    "object": "communications",
+    "inferred": true
+  },
+  {
+    "subject": "mass customization",
+    "predicate": "influences business",
+    "object": "business",
+    "inferred": true
+  },
+  {
+    "subject": "transportation",
+    "predicate": "supports business",
+    "object": "business",
+    "inferred": true
+  },
+  {
+    "subject": "politics",
+    "predicate": "impacts business",
+    "object": "business",
+    "inferred": true
+  },
+  {
+    "subject": "information",
+    "predicate": "governed by",
+    "object": "legislation",
+    "inferred": true
+  },
+  {
+    "subject": "age",
+    "predicate": "impacts safety",
+    "object": "safety",
+    "inferred": true
+  },
+  {
+    "subject": "access",
+    "predicate": "regulates information",
+    "object": "regulations",
+    "inferred": true
+  },
+  {
+    "subject": "sharing",
+    "predicate": "utilizes",
+    "object": "communications",
+    "inferred": true
+  },
+  {
+    "subject": "age",
+    "predicate": "impacts",
+    "object": "technologies",
+    "inferred": true
+  },
+  {
+    "subject": "information",
+    "predicate": "supported by",
+    "object": "communications",
+    "inferred": true
+  },
+  {
+    "subject": "information",
+    "predicate": "influence business",
+    "object": "business",
+    "inferred": true
+  },
+  {
+    "subject": "age",
+    "predicate": "impact business",
+    "object": "business",
+    "inferred": true
+  },
+  {
+    "subject": "safety",
+    "predicate": "impacts",
+    "object": "communications",
+    "inferred": true
+  },
+  {
+    "subject": "legislation",
+    "predicate": "uses",
+    "object": "technologies",
+    "inferred": true
+  },
+  {
+    "subject": "legislation",
+    "predicate": "impacts",
+    "object": "business",
+    "inferred": true
+  },
+  {
+    "subject": "regulations",
+    "predicate": "governs",
+    "object": "business",
+    "inferred": true
+  },
+  {
+    "subject": "safety",
+    "predicate": "affects",
+    "object": "business",
+    "inferred": true
+  },
+  {
+    "subject": "communications",
+    "predicate": "impacts business",
+    "object": "business",
+    "inferred": true
+  },
+  {
+    "subject": "technologies",
+    "predicate": "support practices",
+    "object": "practices",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "influences",
+    "object": "innovation and invention",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "shapes",
+    "object": "automation and manufacturing",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "impacts",
+    "object": "business and organization",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "fuels",
+    "object": "social and political movements",
+    "inferred": true
+  },
+  {
+    "subject": "innovation and invention",
+    "predicate": "drives",
+    "object": "economic activities",
+    "inferred": true
+  },
+  {
+    "subject": "economic systems",
+    "predicate": "supports",
+    "object": "economic activities",
+    "inferred": true
+  },
+  {
+    "subject": "economic systems",
+    "predicate": "defines",
+    "object": "economic structures",
+    "inferred": true
+  },
+  {
+    "subject": "business and economics",
+    "predicate": "underpins",
+    "object": "philosophical and theoretical concepts",
+    "inferred": true
+  },
+  {
+    "subject": "business and economics",
+    "predicate": "creates",
+    "object": "conditions",
+    "inferred": true
+  },
+  {
+    "subject": "conditions",
+    "predicate": "triggers",
+    "object": "social and political movements",
+    "inferred": true
+  },
+  {
+    "subject": "social and political movements",
+    "predicate": "establishes",
+    "object": "communities",
+    "inferred": true
+  },
+  {
+    "subject": "ford",
+    "predicate": "develops",
+    "object": "automation and manufacturing",
+    "inferred": true
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "transforms",
+    "object": "markets",
+    "inferred": true
+  },
+  {
+    "subject": "bessemer",
+    "predicate": "boosts",
+    "object": "economic activities",
+    "inferred": true
+  },
+  {
+    "subject": "economic activities",
+    "predicate": "promotes",
+    "object": "expansion",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "driven by via",
+    "object": "economic activities",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes via industrial",
+    "object": "birmingham",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes via industrial",
+    "object": "mid-20th century",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes via industrial",
+    "object": "adoption",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes via industrial",
+    "object": "epicenter",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes via industrial",
+    "object": "lowell",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes via industrial",
+    "object": "mining",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes via industrial",
+    "object": "economic activities",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes via industrial",
+    "object": "fusion",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes via industrial",
+    "object": "pittsburgh",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes via industrial",
+    "object": "cotton gin",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes via industrial",
+    "object": "artificial intelligence",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes via industrial",
+    "object": "late 20th century",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes via industrial",
+    "object": "manchester",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes via materials",
+    "object": "projects",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "influence via interactions",
+    "object": "technology",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "influence via interactions",
+    "object": "environment",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes via communication",
+    "object": "darpa",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes via communication",
+    "object": "innovation",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes via communication",
+    "object": "exchange",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "includes via communication",
+    "object": "berners-lee",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "originates in via",
+    "object": "business and organization",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "transform via philosophical",
+    "object": "significantly",
+    "inferred": true
+  },
+  {
+    "subject": "revolution",
+    "predicate": "transform via philosophical",
+    "object": "business and economics",
+    "inferred": true
+  },
+  {
+    "subject": "historical figures",
+    "predicate": "invented via innovation",
+    "object": "economic activities",
+    "inferred": true
+  },
+  {
+    "subject": "historical figures",
+    "predicate": "refined via industrial",
+    "object": "birmingham",
+    "inferred": true
+  },
+  {
+    "subject": "historical figures",
+    "predicate": "refined via industrial",
+    "object": "mid-20th century",
+    "inferred": true
+  },
+  {
+    "subject": "historical figures",
+    "predicate": "refined via industrial",
+    "object": "adoption",
+    "inferred": true
+  },
+  {
+    "subject": "historical figures",
+    "predicate": "refined via industrial",
+    "object": "epicenter",
+    "inferred": true
+  },
+  {
+    "subject": "historical figures",
+    "predicate": "refined via industrial",
+    "object": "materials science",
+    "inferred": true
+  },
+  {
+    "subject": "historical figures",
+    "predicate": "refined via industrial",
+    "object": "lowell",
+    "inferred": true
+  },
+  {
+    "subject": "historical figures",
+    "predicate": "refined via industrial",
+    "object": "mining",
+    "inferred": true
+  },
+  {
+    "subject": "historical figures",
+    "predicate": "refined via industrial",
+    "object": "economic activities",
+    "inferred": true
+  },
+  {
+    "subject": "historical figures",
+    "predicate": "refined via industrial",
+    "object": "fusion",
+    "inferred": true
+  },
+  {
+    "subject": "historical figures",
+    "predicate": "refined via industrial",
+    "object": "pittsburgh",
+    "inferred": true
+  },
+  {
+    "subject": "historical figures",
+    "predicate": "refined via industrial",
+    "object": "cotton gin",
+    "inferred": true
+  },
+  {
+    "subject": "historical figures",
+    "predicate": "refined via industrial",
+    "object": "artificial intelligence",
+    "inferred": true
+  },
+  {
+    "subject": "historical figures",
+    "predicate": "refined via industrial",
+    "object": "late 20th century",
+    "inferred": true
+  },
+  {
+    "subject": "historical figures",
+    "predicate": "refined via industrial",
+    "object": "manchester",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "used in via",
+    "object": "projects",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "allowed via economic",
+    "object": "expansion",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "allowed via economic",
+    "object": "projects",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "distinguished by via",
+    "object": "digital",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "centers around via",
+    "object": "institutions",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "centers around via",
+    "object": "autonomous vehicles",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "centers around via",
+    "object": "natural language processing",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "centers around via",
+    "object": "corporations",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "centers around via",
+    "object": "fields",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "centers around via",
+    "object": "modeling",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "centers around via",
+    "object": "predictive analytics",
+    "inferred": true
+  },
+  {
+    "subject": "industrial revolution",
+    "predicate": "centers around via",
+    "object": "biotechnology",
+    "inferred": true
+  },
+  {
+    "subject": "transportation",
+    "predicate": "revolutionized via transport",
+    "object": "bell",
+    "inferred": true
+  },
+  {
+    "subject": "economic activities",
+    "predicate": "drove via projects",
+    "object": "bridges",
+    "inferred": true
+  },
+  {
+    "subject": "economic activities",
+    "predicate": "drove via projects",
+    "object": "skyscrapers",
+    "inferred": true
+  },
+  {
+    "subject": "innovation and invention",
+    "predicate": "allows via economic",
+    "object": "expansion",
+    "inferred": true
+  },
+  {
+    "subject": "innovation and invention",
+    "predicate": "allows via economic",
+    "object": "projects",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "experiences via industrial",
+    "object": "innovation and invention",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "experiences via industrial",
+    "object": "birmingham",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "experiences via industrial",
+    "object": "mid-20th century",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "experiences via industrial",
+    "object": "adoption",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "experiences via industrial",
+    "object": "epicenter",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "experiences via industrial",
+    "object": "materials science",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "experiences via industrial",
+    "object": "lowell",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "experiences via industrial",
+    "object": "mining",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "experiences via industrial",
+    "object": "economic activities",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "experiences via industrial",
+    "object": "fusion",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "experiences via industrial",
+    "object": "pittsburgh",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "experiences via industrial",
+    "object": "cotton gin",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "experiences via industrial",
+    "object": "artificial intelligence",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "experiences via industrial",
+    "object": "late 20th century",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "experiences via industrial",
+    "object": "manchester",
+    "inferred": true
+  },
+  {
+    "subject": "philosophical and theoretical concepts",
+    "predicate": "shaped by via",
+    "object": "foundations",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "pioneered via robotic",
+    "object": "efficiency",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "pioneered via robotic",
+    "object": "product consistency",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "altering via industrial",
+    "object": "innovation and invention",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "altering via industrial",
+    "object": "birmingham",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "altering via industrial",
+    "object": "mid-20th century",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "altering via industrial",
+    "object": "adoption",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "altering via industrial",
+    "object": "epicenter",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "altering via industrial",
+    "object": "materials science",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "altering via industrial",
+    "object": "lowell",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "altering via industrial",
+    "object": "mining",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "altering via industrial",
+    "object": "economic activities",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "altering via industrial",
+    "object": "fusion",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "altering via industrial",
+    "object": "pittsburgh",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "altering via industrial",
+    "object": "cotton gin",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "altering via industrial",
+    "object": "late 20th century",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "altering via industrial",
+    "object": "manchester",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "leads to via",
+    "object": "social and political movements",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "included in via",
+    "object": "institutions",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "included in via",
+    "object": "autonomous vehicles",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "included in via",
+    "object": "natural language processing",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "included in via",
+    "object": "corporations",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "included in via",
+    "object": "fields",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "included in via",
+    "object": "modeling",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "included in via",
+    "object": "predictive analytics",
+    "inferred": true
+  },
+  {
+    "subject": "business and organization",
+    "predicate": "included in via",
+    "object": "biotechnology",
+    "inferred": true
+  },
+  {
+    "subject": "conditions",
+    "predicate": "prompts via social",
+    "object": "communities",
+    "inferred": true
+  },
+  {
+    "subject": "conditions",
+    "predicate": "prompts via social",
+    "object": "historical figures",
+    "inferred": true
+  },
+  {
+    "subject": "conditions",
+    "predicate": "prompts via social",
+    "object": "industrial enterprises",
+    "inferred": true
+  },
+  {
+    "subject": "social and political movements",
+    "predicate": "founded via communities",
+    "object": "new lanark",
+    "inferred": true
+  },
+  {
+    "subject": "social and political movements",
+    "predicate": "founded via communities",
+    "object": "institutions",
+    "inferred": true
+  },
+  {
+    "subject": "social and political movements",
+    "predicate": "authored via historical",
+    "object": "innovation and invention",
+    "inferred": true
+  },
+  {
+    "subject": "social and political movements",
+    "predicate": "authored via historical",
+    "object": "industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "communities",
+    "predicate": "enabled via institutions",
+    "object": "geopolitical entities",
+    "inferred": true
+  },
+  {
+    "subject": "communities",
+    "predicate": "enabled via institutions",
+    "object": "topics",
+    "inferred": true
+  },
+  {
+    "subject": "communities",
+    "predicate": "enabled via institutions",
+    "object": "business and economics",
+    "inferred": true
+  },
+  {
+    "subject": "legislation",
+    "predicate": "limits via labor",
+    "object": "regulations",
+    "inferred": true
+  },
+  {
+    "subject": "ford",
+    "predicate": "pioneered via automation",
+    "object": "markets",
+    "inferred": true
+  },
+  {
+    "subject": "ford",
+    "predicate": "pioneered via automation",
+    "object": "costs",
+    "inferred": true
+  },
+  {
+    "subject": "ford",
+    "predicate": "pioneered via automation",
+    "object": "industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "ford",
+    "predicate": "pioneered via automation",
+    "object": "finance",
+    "inferred": true
+  },
+  {
+    "subject": "ford",
+    "predicate": "pioneered via automation",
+    "object": "healthcare",
+    "inferred": true
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "fundamental in via",
+    "object": "innovation and invention",
+    "inferred": true
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "fundamental in via",
+    "object": "birmingham",
+    "inferred": true
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "fundamental in via",
+    "object": "mid-20th century",
+    "inferred": true
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "fundamental in via",
+    "object": "adoption",
+    "inferred": true
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "fundamental in via",
+    "object": "epicenter",
+    "inferred": true
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "fundamental in via",
+    "object": "materials science",
+    "inferred": true
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "fundamental in via",
+    "object": "lowell",
+    "inferred": true
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "fundamental in via",
+    "object": "mining",
+    "inferred": true
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "fundamental in via",
+    "object": "economic activities",
+    "inferred": true
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "fundamental in via",
+    "object": "fusion",
+    "inferred": true
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "fundamental in via",
+    "object": "pittsburgh",
+    "inferred": true
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "fundamental in via",
+    "object": "cotton gin",
+    "inferred": true
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "fundamental in via",
+    "object": "artificial intelligence",
+    "inferred": true
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "fundamental in via",
+    "object": "late 20th century",
+    "inferred": true
+  },
+  {
+    "subject": "automation and manufacturing",
+    "predicate": "fundamental in via",
+    "object": "manchester",
+    "inferred": true
+  },
+  {
+    "subject": "bell",
+    "predicate": "invented via technology",
+    "object": "innovation and invention",
+    "inferred": true
+  },
+  {
+    "subject": "bell",
+    "predicate": "invented via technology",
+    "object": "thomas edison",
+    "inferred": true
+  },
+  {
+    "subject": "bell",
+    "predicate": "invented via technology",
+    "object": "motors",
+    "inferred": true
+  },
+  {
+    "subject": "bell",
+    "predicate": "invented via technology",
+    "object": "daily life",
+    "inferred": true
+  },
+  {
+    "subject": "bell",
+    "predicate": "invented via technology",
+    "object": "urban growth",
+    "inferred": true
+  },
+  {
+    "subject": "bell",
+    "predicate": "invented via technology",
+    "object": "industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "bell",
+    "predicate": "invented via technology",
+    "object": "economic activities",
+    "inferred": true
+  },
+  {
+    "subject": "bell",
+    "predicate": "invented via technology",
+    "object": "tesla",
+    "inferred": true
+  },
+  {
+    "subject": "bell",
+    "predicate": "invented via technology",
+    "object": "mass customization",
+    "inferred": true
+  },
+  {
+    "subject": "bell",
+    "predicate": "invented via technology",
+    "object": "global supply chains",
+    "inferred": true
+  },
+  {
+    "subject": "bell",
+    "predicate": "invented via technology",
+    "object": "bitcoin",
+    "inferred": true
+  },
+  {
+    "subject": "bell",
+    "predicate": "invented via technology",
+    "object": "economic structures",
+    "inferred": true
+  },
+  {
+    "subject": "bell",
+    "predicate": "invented via technology",
+    "object": "ethereum",
+    "inferred": true
+  },
+  {
+    "subject": "bell",
+    "predicate": "invented via technology",
+    "object": "communication technologies",
+    "inferred": true
+  },
+  {
+    "subject": "bell",
+    "predicate": "invented via technology",
+    "object": "electric lighting",
+    "inferred": true
+  },
+  {
+    "subject": "marconi",
+    "predicate": "invented via radio",
+    "object": "communication technologies",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "altered via industrial",
+    "object": "birmingham",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "altered via industrial",
+    "object": "mid-20th century",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "altered via industrial",
+    "object": "adoption",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "altered via industrial",
+    "object": "epicenter",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "altered via industrial",
+    "object": "materials science",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "altered via industrial",
+    "object": "lowell",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "altered via industrial",
+    "object": "mining",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "altered via industrial",
+    "object": "fusion",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "altered via industrial",
+    "object": "pittsburgh",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "altered via industrial",
+    "object": "cotton gin",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "altered via industrial",
+    "object": "artificial intelligence",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "altered via industrial",
+    "object": "late 20th century",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "altered via industrial",
+    "object": "manchester",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "enable via economic",
+    "object": "expansion",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "enable via economic",
+    "object": "projects",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "enhances via communication",
+    "object": "interactions",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "enhances via communication",
+    "object": "darpa",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "enhances via communication",
+    "object": "innovation",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "enhances via communication",
+    "object": "exchange",
+    "inferred": true
+  },
+  {
+    "subject": "technology",
+    "predicate": "enhances via communication",
+    "object": "berners-lee",
+    "inferred": true
+  },
+  {
+    "subject": "radio",
+    "predicate": "enhances via communication",
+    "object": "interactions",
+    "inferred": true
+  },
+  {
+    "subject": "radio",
+    "predicate": "enhances via communication",
+    "object": "darpa",
+    "inferred": true
+  },
+  {
+    "subject": "radio",
+    "predicate": "enhances via communication",
+    "object": "innovation",
+    "inferred": true
+  },
+  {
+    "subject": "radio",
+    "predicate": "enhances via communication",
+    "object": "exchange",
+    "inferred": true
+  },
+  {
+    "subject": "radio",
+    "predicate": "enhances via communication",
+    "object": "berners-lee",
+    "inferred": true
+  },
+  {
+    "subject": "communication technologies",
+    "predicate": "increases via interactions",
+    "object": "technology",
+    "inferred": true
+  },
+  {
+    "subject": "communication technologies",
+    "predicate": "increases via interactions",
+    "object": "environment",
+    "inferred": true
+  },
+  {
+    "subject": "communication technologies",
+    "predicate": "between via innovation",
+    "object": "civilization",
+    "inferred": true
+  },
+  {
+    "subject": "communication technologies",
+    "predicate": "between via innovation",
+    "object": "shifts",
+    "inferred": true
+  },
+  {
+    "subject": "communication technologies",
+    "predicate": "between via innovation",
+    "object": "politics",
+    "inferred": true
+  },
+  {
+    "subject": "communication technologies",
+    "predicate": "between via innovation",
+    "object": "interplay",
+    "inferred": true
+  },
+  {
+    "subject": "bessemer",
+    "predicate": "developed via process",
+    "object": "materials science",
+    "inferred": true
+  },
+  {
+    "subject": "bessemer",
+    "predicate": "revolutionized via economic",
+    "object": "expansion",
+    "inferred": true
+  },
+  {
+    "subject": "bessemer",
+    "predicate": "revolutionized via economic",
+    "object": "projects",
+    "inferred": true
+  },
+  {
+    "subject": "process",
+    "predicate": "revolutionizes via materials",
+    "object": "projects",
+    "inferred": true
+  },
+  {
+    "subject": "materials science",
+    "predicate": "drives via projects",
+    "object": "bridges",
+    "inferred": true
+  },
+  {
+    "subject": "materials science",
+    "predicate": "drives via projects",
+    "object": "skyscrapers",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via industrial",
+    "object": "innovation and invention",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via industrial",
+    "object": "birmingham",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via industrial",
+    "object": "mid-20th century",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via industrial",
+    "object": "adoption",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via industrial",
+    "object": "epicenter",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via industrial",
+    "object": "materials science",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via industrial",
+    "object": "lowell",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via industrial",
+    "object": "mining",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via industrial",
+    "object": "economic activities",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via industrial",
+    "object": "fusion",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via industrial",
+    "object": "pittsburgh",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via industrial",
+    "object": "cotton gin",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via industrial",
+    "object": "artificial intelligence",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via industrial",
+    "object": "late 20th century",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via industrial",
+    "object": "manchester",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via computing",
+    "object": "innovation and invention",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via computing",
+    "object": "motors",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via computing",
+    "object": "nokia",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via computing",
+    "object": "economic activities",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via computing",
+    "object": "gates",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via computing",
+    "object": "samsung",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via computing",
+    "object": "technology",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via computing",
+    "object": "ibm",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via computing",
+    "object": "business and organization",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via computing",
+    "object": "power",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via computing",
+    "object": "mit",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via computing",
+    "object": "historical figures",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via automation",
+    "object": "markets",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via automation",
+    "object": "costs",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via automation",
+    "object": "finance",
+    "inferred": true
+  },
+  {
+    "subject": "development",
+    "predicate": "involved via automation",
+    "object": "healthcare",
+    "inferred": true
+  },
+  {
+    "subject": "transport",
+    "predicate": "invented by via",
+    "object": "technology",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "popularized via economic",
+    "object": "expansion",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "popularized via economic",
+    "object": "projects",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "paved way",
+    "object": "thomas edison",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "paved way",
+    "object": "daily life",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "paved way",
+    "object": "urban growth",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "paved way",
+    "object": "industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "paved way",
+    "object": "bell",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "paved way",
+    "object": "tesla",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "paved way",
+    "object": "mass customization",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "paved way",
+    "object": "global supply chains",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "paved way",
+    "object": "bitcoin",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "paved way",
+    "object": "economic structures",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "paved way",
+    "object": "ethereum",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "paved way",
+    "object": "communication technologies",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "paved way",
+    "object": "electric lighting",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "developed by via",
+    "object": "artificial intelligence",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "developed by via",
+    "object": "robotic assembly",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "developed by via",
+    "object": "industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "developed by via",
+    "object": "finance",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "developed by via",
+    "object": "conditions",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "developed by via",
+    "object": "healthcare",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "developed by via",
+    "object": "amazon",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "developed by via",
+    "object": "alibaba",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "developed by via",
+    "object": "entertainment",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "in via development",
+    "object": "industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "in via development",
+    "object": "automation and manufacturing",
+    "inferred": true
+  },
+  {
+    "subject": "computing",
+    "predicate": "popularized via historical",
+    "object": "industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "interplay",
+    "predicate": "transforming via philosophical",
+    "object": "significantly",
+    "inferred": true
+  },
+  {
+    "subject": "interplay",
+    "predicate": "transforming via philosophical",
+    "object": "industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "interplay",
+    "predicate": "transforming via philosophical",
+    "object": "business and economics",
+    "inferred": true
+  },
+  {
+    "subject": "creation",
+    "predicate": "enabled via communication",
+    "object": "interactions",
+    "inferred": true
+  },
+  {
+    "subject": "creation",
+    "predicate": "enabled via communication",
+    "object": "darpa",
+    "inferred": true
+  },
+  {
+    "subject": "creation",
+    "predicate": "enabled via communication",
+    "object": "innovation",
+    "inferred": true
+  },
+  {
+    "subject": "creation",
+    "predicate": "enabled via communication",
+    "object": "exchange",
+    "inferred": true
+  },
+  {
+    "subject": "creation",
+    "predicate": "enabled via communication",
+    "object": "berners-lee",
+    "inferred": true
+  },
+  {
+    "subject": "lines",
+    "predicate": "pioneered via robotic",
+    "object": "efficiency",
+    "inferred": true
+  },
+  {
+    "subject": "lines",
+    "predicate": "pioneered via robotic",
+    "object": "product consistency",
+    "inferred": true
+  },
+  {
+    "subject": "e-commerce",
+    "predicate": "spearheaded by via",
+    "object": "robotic assembly",
+    "inferred": true
+  },
+  {
+    "subject": "e-commerce",
+    "predicate": "spearheaded by via",
+    "object": "industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "e-commerce",
+    "predicate": "spearheaded by via",
+    "object": "finance",
+    "inferred": true
+  },
+  {
+    "subject": "e-commerce",
+    "predicate": "spearheaded by via",
+    "object": "conditions",
+    "inferred": true
+  },
+  {
+    "subject": "e-commerce",
+    "predicate": "spearheaded by via",
+    "object": "healthcare",
+    "inferred": true
+  },
+  {
+    "subject": "e-commerce",
+    "predicate": "spearheaded by via",
+    "object": "amazon",
+    "inferred": true
+  },
+  {
+    "subject": "e-commerce",
+    "predicate": "spearheaded by via",
+    "object": "artificial intelligence",
+    "inferred": true
+  },
+  {
+    "subject": "e-commerce",
+    "predicate": "spearheaded by via",
+    "object": "alibaba",
+    "inferred": true
+  },
+  {
+    "subject": "e-commerce",
+    "predicate": "spearheaded by via",
+    "object": "entertainment",
+    "inferred": true
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "developed by via",
+    "object": "geopolitical entities",
+    "inferred": true
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "developed by via",
+    "object": "topics",
+    "inferred": true
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "developed by via",
+    "object": "business and economics",
+    "inferred": true
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "enables via autonomous",
+    "object": "cruise",
+    "inferred": true
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "enables via autonomous",
+    "object": "tesla",
+    "inferred": true
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "enables via autonomous",
+    "object": "automation and manufacturing",
+    "inferred": true
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "enables via autonomous",
+    "object": "waymo",
+    "inferred": true
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "are in via",
+    "object": "cryptography",
+    "inferred": true
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "are in via",
+    "object": "materials science",
+    "inferred": true
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "are in via",
+    "object": "pharmaceuticals",
+    "inferred": true
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "dimensions via biotechnology",
+    "object": "healthcare",
+    "inferred": true
+  },
+  {
+    "subject": "artificial intelligence",
+    "predicate": "dimensions via biotechnology",
+    "object": "crispr-cas9",
+    "inferred": true
+  },
+  {
+    "subject": "openai",
+    "predicate": "included in via",
+    "object": "institutions",
+    "inferred": true
+  },
+  {
+    "subject": "openai",
+    "predicate": "included in via",
+    "object": "autonomous vehicles",
+    "inferred": true
+  },
+  {
+    "subject": "openai",
+    "predicate": "included in via",
+    "object": "natural language processing",
+    "inferred": true
+  },
+  {
+    "subject": "openai",
+    "predicate": "included in via",
+    "object": "corporations",
+    "inferred": true
+  },
+  {
+    "subject": "openai",
+    "predicate": "included in via",
+    "object": "fields",
+    "inferred": true
+  },
+  {
+    "subject": "openai",
+    "predicate": "included in via",
+    "object": "modeling",
+    "inferred": true
+  },
+  {
+    "subject": "openai",
+    "predicate": "included in via",
+    "object": "predictive analytics",
+    "inferred": true
+  },
+  {
+    "subject": "openai",
+    "predicate": "included in via",
+    "object": "biotechnology",
+    "inferred": true
+  },
+  {
+    "subject": "microsoft",
+    "predicate": "included in via",
+    "object": "institutions",
+    "inferred": true
+  },
+  {
+    "subject": "microsoft",
+    "predicate": "included in via",
+    "object": "autonomous vehicles",
+    "inferred": true
+  },
+  {
+    "subject": "microsoft",
+    "predicate": "included in via",
+    "object": "natural language processing",
+    "inferred": true
+  },
+  {
+    "subject": "microsoft",
+    "predicate": "included in via",
+    "object": "corporations",
+    "inferred": true
+  },
+  {
+    "subject": "microsoft",
+    "predicate": "included in via",
+    "object": "fields",
+    "inferred": true
+  },
+  {
+    "subject": "microsoft",
+    "predicate": "included in via",
+    "object": "modeling",
+    "inferred": true
+  },
+  {
+    "subject": "microsoft",
+    "predicate": "included in via",
+    "object": "predictive analytics",
+    "inferred": true
+  },
+  {
+    "subject": "microsoft",
+    "predicate": "included in via",
+    "object": "biotechnology",
+    "inferred": true
+  },
+  {
+    "subject": "ibm",
+    "predicate": "included in via",
+    "object": "institutions",
+    "inferred": true
+  },
+  {
+    "subject": "ibm",
+    "predicate": "included in via",
+    "object": "autonomous vehicles",
+    "inferred": true
+  },
+  {
+    "subject": "ibm",
+    "predicate": "included in via",
+    "object": "natural language processing",
+    "inferred": true
+  },
+  {
+    "subject": "ibm",
+    "predicate": "included in via",
+    "object": "corporations",
+    "inferred": true
+  },
+  {
+    "subject": "ibm",
+    "predicate": "included in via",
+    "object": "fields",
+    "inferred": true
+  },
+  {
+    "subject": "ibm",
+    "predicate": "included in via",
+    "object": "modeling",
+    "inferred": true
+  },
+  {
+    "subject": "ibm",
+    "predicate": "included in via",
+    "object": "predictive analytics",
+    "inferred": true
+  },
+  {
+    "subject": "ibm",
+    "predicate": "included in via",
+    "object": "biotechnology",
+    "inferred": true
+  },
+  {
+    "subject": "chatgpt",
+    "predicate": "is a via",
+    "object": "institutions",
+    "inferred": true
+  },
+  {
+    "subject": "chatgpt",
+    "predicate": "is a via",
+    "object": "autonomous vehicles",
+    "inferred": true
+  },
+  {
+    "subject": "chatgpt",
+    "predicate": "is a via",
+    "object": "natural language processing",
+    "inferred": true
+  },
+  {
+    "subject": "chatgpt",
+    "predicate": "is a via",
+    "object": "corporations",
+    "inferred": true
+  },
+  {
+    "subject": "chatgpt",
+    "predicate": "is a via",
+    "object": "fields",
+    "inferred": true
+  },
+  {
+    "subject": "chatgpt",
+    "predicate": "is a via",
+    "object": "modeling",
+    "inferred": true
+  },
+  {
+    "subject": "chatgpt",
+    "predicate": "is a via",
+    "object": "predictive analytics",
+    "inferred": true
+  },
+  {
+    "subject": "chatgpt",
+    "predicate": "is a via",
+    "object": "biotechnology",
+    "inferred": true
+  },
+  {
+    "subject": "autonomous vehicles",
+    "predicate": "uses via automation",
+    "object": "markets",
+    "inferred": true
+  },
+  {
+    "subject": "autonomous vehicles",
+    "predicate": "uses via automation",
+    "object": "costs",
+    "inferred": true
+  },
+  {
+    "subject": "autonomous vehicles",
+    "predicate": "uses via automation",
+    "object": "industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "autonomous vehicles",
+    "predicate": "uses via automation",
+    "object": "finance",
+    "inferred": true
+  },
+  {
+    "subject": "autonomous vehicles",
+    "predicate": "uses via automation",
+    "object": "healthcare",
+    "inferred": true
+  },
+  {
+    "subject": "fields",
+    "predicate": "includes via materials",
+    "object": "projects",
+    "inferred": true
+  },
+  {
+    "subject": "debates",
+    "predicate": "shape via automation",
+    "object": "markets",
+    "inferred": true
+  },
+  {
+    "subject": "debates",
+    "predicate": "shape via automation",
+    "object": "costs",
+    "inferred": true
+  },
+  {
+    "subject": "debates",
+    "predicate": "shape via automation",
+    "object": "industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "debates",
+    "predicate": "shape via automation",
+    "object": "finance",
+    "inferred": true
+  },
+  {
+    "subject": "debates",
+    "predicate": "shape via automation",
+    "object": "healthcare",
+    "inferred": true
+  },
+  {
+    "subject": "forum",
+    "predicate": "is via business",
+    "object": "foundations",
+    "inferred": true
+  },
+  {
+    "subject": "geopolitical entities",
+    "predicate": "is via business",
+    "object": "robotic assembly",
+    "inferred": true
+  },
+  {
+    "subject": "geopolitical entities",
+    "predicate": "is via business",
+    "object": "industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "geopolitical entities",
+    "predicate": "is via business",
+    "object": "finance",
+    "inferred": true
+  },
+  {
+    "subject": "geopolitical entities",
+    "predicate": "is via business",
+    "object": "conditions",
+    "inferred": true
+  },
+  {
+    "subject": "geopolitical entities",
+    "predicate": "is via business",
+    "object": "healthcare",
+    "inferred": true
+  },
+  {
+    "subject": "geopolitical entities",
+    "predicate": "is via business",
+    "object": "amazon",
+    "inferred": true
+  },
+  {
+    "subject": "geopolitical entities",
+    "predicate": "is via business",
+    "object": "artificial intelligence",
+    "inferred": true
+  },
+  {
+    "subject": "geopolitical entities",
+    "predicate": "is via business",
+    "object": "alibaba",
+    "inferred": true
+  },
+  {
+    "subject": "geopolitical entities",
+    "predicate": "is via business",
+    "object": "entertainment",
+    "inferred": true
+  },
+  {
+    "subject": "institutions",
+    "predicate": "include via geopolitical",
+    "object": "business and organization",
+    "inferred": true
+  },
+  {
+    "subject": "institutions",
+    "predicate": "include via business",
+    "object": "foundations",
+    "inferred": true
+  },
+  {
+    "subject": "interactions",
+    "predicate": "with via technology",
+    "object": "innovation and invention",
+    "inferred": true
+  },
+  {
+    "subject": "interactions",
+    "predicate": "with via technology",
+    "object": "thomas edison",
+    "inferred": true
+  },
+  {
+    "subject": "interactions",
+    "predicate": "with via technology",
+    "object": "motors",
+    "inferred": true
+  },
+  {
+    "subject": "interactions",
+    "predicate": "with via technology",
+    "object": "daily life",
+    "inferred": true
+  },
+  {
+    "subject": "interactions",
+    "predicate": "with via technology",
+    "object": "urban growth",
+    "inferred": true
+  },
+  {
+    "subject": "interactions",
+    "predicate": "with via technology",
+    "object": "industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "interactions",
+    "predicate": "with via technology",
+    "object": "economic activities",
+    "inferred": true
+  },
+  {
+    "subject": "interactions",
+    "predicate": "with via technology",
+    "object": "bell",
+    "inferred": true
+  },
+  {
+    "subject": "interactions",
+    "predicate": "with via technology",
+    "object": "tesla",
+    "inferred": true
+  },
+  {
+    "subject": "interactions",
+    "predicate": "with via technology",
+    "object": "mass customization",
+    "inferred": true
+  },
+  {
+    "subject": "interactions",
+    "predicate": "with via technology",
+    "object": "global supply chains",
+    "inferred": true
+  },
+  {
+    "subject": "interactions",
+    "predicate": "with via technology",
+    "object": "bitcoin",
+    "inferred": true
+  },
+  {
+    "subject": "interactions",
+    "predicate": "with via technology",
+    "object": "economic structures",
+    "inferred": true
+  },
+  {
+    "subject": "interactions",
+    "predicate": "with via technology",
+    "object": "ethereum",
+    "inferred": true
+  },
+  {
+    "subject": "interactions",
+    "predicate": "with via technology",
+    "object": "communication technologies",
+    "inferred": true
+  },
+  {
+    "subject": "interactions",
+    "predicate": "with via technology",
+    "object": "electric lighting",
+    "inferred": true
+  },
+  {
+    "subject": "understanding",
+    "predicate": "essential via communication",
+    "object": "interactions",
+    "inferred": true
+  },
+  {
+    "subject": "understanding",
+    "predicate": "essential via communication",
+    "object": "darpa",
+    "inferred": true
+  },
+  {
+    "subject": "understanding",
+    "predicate": "essential via communication",
+    "object": "innovation",
+    "inferred": true
+  },
+  {
+    "subject": "understanding",
+    "predicate": "essential via communication",
+    "object": "exchange",
+    "inferred": true
+  },
+  {
+    "subject": "understanding",
+    "predicate": "essential via communication",
+    "object": "berners-lee",
+    "inferred": true
+  },
+  {
+    "subject": "innovation",
+    "predicate": "is essential",
+    "object": "philosophical and theoretical concepts",
+    "inferred": true
+  },
+  {
+    "subject": "labor and economics",
+    "predicate": "related to",
+    "object": "business and economics",
+    "inferred": true
+  },
+  {
+    "subject": "natural language processing",
+    "predicate": "is type of",
+    "object": "age",
+    "inferred": true
+  },
+  {
+    "subject": "economic systems",
+    "predicate": "related to",
+    "object": "economic activities",
+    "inferred": true
+  },
+  {
+    "subject": "economic systems",
+    "predicate": "related to",
+    "object": "economic structures",
+    "inferred": true
+  },
+  {
+    "subject": "innovation",
+    "predicate": "related to",
+    "object": "innovation and invention",
+    "inferred": true
+  },
+  {
+    "subject": "business",
+    "predicate": "related to",
+    "object": "business and economics",
+    "inferred": true
+  },
+  {
+    "subject": "business",
+    "predicate": "related to",
+    "object": "business and organization",
+    "inferred": true
+  },
+  {
+    "subject": "business and economics",
+    "predicate": "related to",
+    "object": "business and organization",
+    "inferred": true
+  },
+  {
+    "subject": "biotechnology",
+    "predicate": "is type of",
+    "object": "technology",
+    "inferred": true
+  },
+  {
+    "subject": "industrial enterprises",
+    "predicate": "related to",
+    "object": "industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "fourth industrial revolution",
+    "predicate": "relates to",
+    "object": "industrial enterprises",
+    "inferred": true
+  },
+  {
+    "subject": "late 20th century",
+    "predicate": "related to",
+    "object": "mid-20th century",
+    "inferred": true
+  },
+  {
+    "subject": "fourth industrial revolution",
+    "predicate": "relates to",
+    "object": "industrial revolution",
+    "inferred": true
+  },
+  {
+    "subject": "fourth industrial revolution",
+    "predicate": "relates to",
+    "object": "revolution",
+    "inferred": true
+  },
+  {
+    "subject": "economic activities",
+    "predicate": "related to",
+    "object": "economic structures",
+    "inferred": true
+  },
+  {
+    "subject": "natural language processing",
+    "predicate": "is type of",
+    "object": "process",
+    "inferred": true
+  },
+  {
+    "subject": "communication technologies",
+    "predicate": "relates to",
+    "object": "technologies",
+    "inferred": true
+  }
+]
